@@ -1,0 +1,5 @@
+Atendente: Maria
+Cliente: Clara, CPF: 2401437
+ID: 63
+Cliente ligou para solicitar informação.
+Mensagem do Cliente: Vocês vendem internet?
